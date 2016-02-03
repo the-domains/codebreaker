@@ -2,6 +2,7 @@ name: codebreaker
 favicon: null
 layout_spectrum: 0.6876057060435414
 typography_spectrum: 0.6367622874677181
+title: Code Breaker
 cta:
   domain: null
   bucket: null
