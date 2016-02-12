@@ -1,7 +1,7 @@
 name: codebreaker
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.17629
+layout_spectrum: 0.50193
+typography_spectrum: 0.3237
 title: Code Breaker
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#6B574B'
     - '#160600'
   brandStrength: 0.5
-  lightness: 0.10366612183861434
-  saturation: 0.19294531596824527
-  rhythmicContrast: 0.47769326251000166
+  lightness: 0.125
+  saturation: 0.3125
+  rhythmicContrast: 0.25
 purpose: []
