@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Code Breaker]]></title>
+        <description><![CDATA[Code Breaker]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 12 Feb 2016 04:39:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Messy Kitchen]]></title>
+            <description><![CDATA[<article><h1>Messy Kitchen</h1><p>Blog.</p></article>]]></description>
+            <link>undefinedmessy-kitchen/index.html</link>
+            <guid isPermaLink="false">7947b6ec-9ad0-4d32-b84c-694ea854dfd6</guid>
+            <pubDate>Fri, 12 Feb 2016 04:39:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
